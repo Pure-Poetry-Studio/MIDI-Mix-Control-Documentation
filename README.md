@@ -1,3 +1,5 @@
+# MIDI Mix Control Documentation
+
 ## Introduction
 
 ### 1.1 Purpose
