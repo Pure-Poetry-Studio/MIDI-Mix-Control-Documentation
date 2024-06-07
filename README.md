@@ -142,4 +142,4 @@ As long as it is being used/paid for, this plugin will be kept up-to-date with a
 IT IS SHIPPED!
 
 
-Copyright Berrak Nil Boya, All Rights Reserved.
+Copyright [Berrak Nil Boya](https://berraknil.com/), All Rights Reserved.
