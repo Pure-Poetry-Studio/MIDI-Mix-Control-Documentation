@@ -26,34 +26,8 @@ Unreal Engine versions: 5.3.2 or 5.4.2 (please make sure to download the correct
 
 ### 3.2 Installation Steps
 
-#### 3.2.1 Itch.io
 
-1. Unzip the plugin file you downloaded to a place of your choosing. 
-2. Go to the relevant engine plugin folder, depending on your engine version this will be `[Your Install Directory]\Epic Games\[Engine Version]\Engine\Plugins`
-
- - For example, if my Unreal Engine version 5.3 is installed on my D drive, under Program Files, the correct directory would be `D:\Program Files\Epic Games\UE_5.3\Engine\Plugins`
-
-Once you are inside the Plugins folder, if you already have a Marketplace folder, navigate into that, and if you don't have one, please create one and open it. 
- 
- - Current directory would be `D:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace`
-
-Now please copy and paste the unzipped plugin folder inside the Marketplace directory. Make sure the unzipped plugin has the structure of MIDIMixControl\[All Plugin Contents] and not another structure due to unzipping to a specific directory.
-
- - Now the final directory structure should be `D:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\MIDIMixControl`
-
-As MIDI Mix Control is made and structured as an engine plugin, now you can easily enable/disable it for your projects by using the Plugins window under Edit/Plugins from the toolbar. 
-
-![image](https://github.com/Pure-Poetry-Studio/Midi-Mix-Control/assets/6593585/a9eb50cd-2a34-4902-be39-b4476e443b71)
-
- _make sure to restart the editor after you enable the plugin_
-
-![image](https://github.com/Pure-Poetry-Studio/Midi-Mix-Control/assets/6593585/1e35201b-25f4-49cc-8d9a-68b16d3c3e25)
-
-
-
-#### 3.2.2 Epic Marketplace 
-After download, just press the "Install to Engine" button and choose the right version matching your installed Unreal Engine 5 version. The plugin will be installed, and you can easily enable/disable it from the Plugins window under Edit/Plugins from the toolbar.
-
+After downloading the plugin, just press the "Install to Engine" button in Epic Launcher, and choose the right version matching your installed Unreal Engine 5 version. The plugin will be installed, and you can easily enable/disable it from the Plugins window under Edit/Plugins from the toolbar.
 
 ## Usage Guide
 
